@@ -2,8 +2,6 @@ package com.aws.sundgaar;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
-
-import com.aws.codestar.projecttemplates.GatewayResponse;
 import org.json.JSONObject;
 
 import java.util.HashMap;
